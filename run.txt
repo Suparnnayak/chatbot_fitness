@@ -1,0 +1,4 @@
+'run this command in the terminal' 
+
+streamlit run  main_app.py
+
